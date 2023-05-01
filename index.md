@@ -1,5 +1,3 @@
-# Does poly coated urea fertilizer application reduce nitrate loss from tile drainage?
-
 # Background
 
 ## What is tile drainage?
