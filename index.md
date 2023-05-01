@@ -324,6 +324,7 @@ print('p =', p_val)
 #### Linear regression
 #### Resampling-based statistics
 #### Version control
+
   The dataset used in this project can be broken down and analyzed in many different subsets. Data cleaning and visualization strategies make data intrepretation easier and help narrow the focus to what is most significant. Using linear regression and resampling-based statistics can aid in making statistical conclusions about the different fertilizer treatments and their impacts on drainage nitrogen export. Version control aids in optimizing data analysis and providing checkpoints to reference.
 
   To perfrom the linear regression, independence, normality, and homoscedasticity assumptions were to be met. While indpendence and normality conditions were adequate, homoscedacicity was violated. Thus, a generalized model was used which does not require homoscedasticity as strictly as the ordinary model. Resampling also helped in meeting assumptions for hypothesis testing by creating new datasets of equal sizes that are normal and homoscedastic.
